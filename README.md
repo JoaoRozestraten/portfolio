@@ -31,3 +31,11 @@ A hardware description repository containing **VHDL** code, lab assignments, and
 ### [Integrative Health App](https://github.com/JoaoRozestraten/ProjetoIntegrador)
 A full-stack web application developed to help users track and manage health-related goals like weight and water consumption. It features a secure **Node.js/Express** backend with user authentication and dynamic frontend forms.
 
+### [Trilha de visão computacional](https://github.com/JoaoRozestraten/TrilhaVisaoComputacional)
+A Computer Vision and Augmented Reality track project. It features solutions for practical challenges such as background blurring (using **Haar Cascades** and **GaussianBlur**) and a facial recognition pipeline utilizing **Deep Learning** and **SVM** classifiers.
+
+### [toytrace](https://github.com/JoaoRozestraten/PUC-Proj-SO-1s-26-toytrace)
+An educational Operating Systems project developed in **C** aimed at building a minimal system call monitor for Linux. Inspired by `strace`, it implements core `ptrace` workflows including process creation (`fork`, `execvp`), system call interception, and argument decoding.
+
+### [Projeto pratico de redes](https://github.com/JoaoRozestraten/ProjetoPratico-Redes-de-Computadores)
+A remote operating system performance monitor built using **Python**, **TCP sockets**, and **threads**. It operates on a client-server architecture, allowing clients to request and monitor real-time system metrics (CPU, memory, disk, and network) from the server via the **psutil** library.
