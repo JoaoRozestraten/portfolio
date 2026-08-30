@@ -1,6 +1,10 @@
 # My Portfolio
 
-Welcome to my portfolio! Below you will find a summary of my key projects across different areas such as Data Science, Web Development, Low-Level Programming (Assembly/C), and Hardware Description (VHDL).
+Welcome to my portfolio! This repository brings together a selection of academic and personal projects developed throughout my studies in Computer Engineering. The projects cover a broad range of areas, including Data Science, Web Development, Software Engineering, Data Structures, Computer Architecture, Operating Systems, Computer Networks, Cybersecurity, Computer Vision, and Hardware Design.
+
+Each project reflects my progression in programming and problem-solving, ranging from low-level programming in C and Assembly to full-stack applications, machine learning, computer vision, and hardware description using VHDL.
+
+Below you can find a summary of my main projects, along with the technologies and concepts explored in each one.
 
 ---
 
