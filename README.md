@@ -39,3 +39,15 @@ An educational Operating Systems project developed in **C** aimed at building a 
 
 ### [Projeto pratico de redes](https://github.com/JoaoRozestraten/ProjetoPratico-Redes-de-Computadores)
 A remote operating system performance monitor built using **Python**, **TCP sockets**, and **threads**. It operates on a client-server architecture, allowing clients to request and monitor real-time system metrics (CPU, memory, disk, and network) from the server via the **psutil** library.
+
+### [Cubo Mágico 2x2x2 com Busca em IA](https://github.com/CarlosEANascimento/ML-Cubo-Magico)
+An academic project developed in **C++17** to represent, animate, and solve a **2x2x2 Rubik's Cube** using AI search algorithms. It features a real-time **3D visualization** (OpenGL, GLFW, Dear ImGui) and a complete search engine supporting **BFS**, **Iterative Deepening DFS (IDDFS)**, and **A\*** with an exact-distance heuristic table. The solver handles symmetry reduction, visited-state detection, and solution path reconstruction.
+
+### [Genéticos - Caixeiro Viajante](https://github.com/danielwu05/Geneticos-Caixeiro-Viajante)
+A **C++** implementation of the foundational world model for a Travelling Salesman Problem (TSP) solver using Genetic Algorithms. It models cities with configurable spatial distributions (**Uniform** random and **Circular**) and builds a memory-efficient **lower-triangular distance matrix** — storing only N(N-1)/2 values instead of N² — with O(1) symmetric lookup via automatic index swapping.
+
+### [Arquitetura de Computadores](https://github.com/JoaoRozestraten/ArquiteturaDeComp)
+A series of hardware design laboratory assignments developed in **VHDL**, covering digital circuits from basic components to a single-cycle processor datapath. The labs progress from multiplexers and adders to a full 16-bit CPU datapath integrating a **Program Counter**, **Instruction Memory (ROM)**, **Register File**, and a **16-bit ALU** (supporting ADD, SUB, AND, OR, SLT, NOR). The final lab includes FPGA board deployment on the **DE2-115** with hardware debouncing, a 7-segment display inspector, and a complete simulation testbench with assertions.
+
+### [Table-4U](https://github.com/Oised/Table-4U)
+A full-stack restaurant management application built with **Node.js**, **Express**, **PostgreSQL**, and **Prisma ORM**. The system is split into two interfaces: a **PublicServer** for customers (account creation, table reservations, waitlist queue, and menu browsing) and a **PrivateServer** for staff (check-in management, queue control, and order tracking). Authentication is handled via **bcrypt** password hashing.
