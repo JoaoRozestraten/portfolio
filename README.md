@@ -1,6 +1,10 @@
 # My Portfolio
 
-Welcome to my portfolio! Below you will find a summary of my key projects across different areas such as Data Science, Web Development, Low-Level Programming (Assembly/C), and Hardware Description (VHDL).
+Welcome to my portfolio! This repository brings together a selection of academic and personal projects developed throughout my studies in Computer Engineering. The projects cover a broad range of areas, including Data Science, Web Development, Software Engineering, Data Structures, Computer Architecture, Operating Systems, Computer Networks, Cybersecurity, Computer Vision, and Hardware Design.
+
+Each project reflects my progression in programming and problem-solving, ranging from low-level programming in C and Assembly to full-stack applications, machine learning, computer vision, and hardware description using VHDL.
+
+Below you can find a summary of my main projects, along with the technologies and concepts explored in each one.
 
 ---
 
@@ -31,13 +35,13 @@ A hardware description repository containing **VHDL** code, lab assignments, and
 ### [Integrative Health App] https://github.com/JoaoRozestraten/ProjetoIntegrador
 A full-stack web application developed to help users track and manage health-related goals like weight and water consumption. It features a secure **Node.js/Express** backend with user authentication and dynamic frontend forms.
 
-### [Trilha de visão computacional](https://github.com/JoaoRozestraten/TrilhaVisaoComputacional)
+### [Trilha de visão computacional] (https://github.com/JoaoRozestraten/TrilhaVisaoComputacional)
 A Computer Vision and Augmented Reality track project. It features solutions for practical challenges such as background blurring (using **Haar Cascades** and **GaussianBlur**) and a facial recognition pipeline utilizing **Deep Learning** and **SVM** classifiers.
 
-### [toytrace](https://github.com/JoaoRozestraten/PUC-Proj-SO-1s-26-toytrace)
+### [toytrace] (https://github.com/JoaoRozestraten/PUC-Proj-SO-1s-26-toytrace)
 An educational Operating Systems project developed in **C** aimed at building a minimal system call monitor for Linux. Inspired by `strace`, it implements core `ptrace` workflows including process creation (`fork`, `execvp`), system call interception, and argument decoding.
 
-### [Projeto pratico de redes](https://github.com/JoaoRozestraten/ProjetoPratico-Redes-de-Computadores)
+### [Projeto pratico de redes] (https://github.com/JoaoRozestraten/ProjetoPratico-Redes-de-Computadores)
 A remote operating system performance monitor built using **Python**, **TCP sockets**, and **threads**. It operates on a client-server architecture, allowing clients to request and monitor real-time system metrics (CPU, memory, disk, and network) from the server via the **psutil** library.
 
 ### [Cubo Mágico 2x2x2 com Busca em IA](https://github.com/CarlosEANascimento/ML-Cubo-Magico)
